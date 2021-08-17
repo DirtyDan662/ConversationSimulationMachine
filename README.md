@@ -6,7 +6,7 @@ Have a Conversation With Your Computer!
 This modifed Blue J project enables the user to simulate a conversation with anyone imaginable.
 The program takes two input files containing generic respones
 and mapped responses. These files must be labled "default.txt" and "map.text"
-respectively. 
+respectively, and stored in a folder labled "responses".
 
 These files allows the simulation toidentify an appropiate response to a phrase.
 Of course, the success of these iterations is dependent on the quality of the two text files.
